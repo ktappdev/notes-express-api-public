@@ -1,4 +1,5 @@
-This Api powers (Backend) https://secretnote.netlify.app/
+This Api powers (Backend) https://secretnote.netlify.app/ <br>
+This is a link to the frontend - https://github.com/KTAppDev/notes-app-frontend-public <br>
 
 missing from the .env file:<br>
 AZURE_STORAGE_CONNECTION_STRING="connection string"<br>
