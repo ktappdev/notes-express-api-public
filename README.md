@@ -3,6 +3,7 @@ This Api powers (Backend) https://secretnote.netlify.app/
 missing from the .env file:
 
 AZURE_STORAGE_CONNECTION_STRING="connection string"
+
 DB_URL="mondodb connection string"
 
 Description: Secret Note 
